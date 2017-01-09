@@ -20,3 +20,9 @@ Jtable is used then to output a information about each class in a tabular format
 5. Java docs folder.
 
 ### Runing this project
+1. Download this repo
+2. Create a java project in some IDE
+3. Add java source code
+4. Add a jar file that you want to analyse to the project solution
+5. Add external jars to build path if needed
+7. In runner class type in the name of the full file eg. "string-serive.jar" to pass the file to MetricImpl object. 
