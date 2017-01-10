@@ -15,9 +15,7 @@ Jtable is used then to output a information about each class in a tabular format
 ### Structure of Repository
 1. The src folder for java source code
 2. Uml diagram of the classes in this project 
-3. Jar file being analysed(string-service)
-4. Servlet-api jar(which is to be included in project build path to fix errors of http and server stuff missing, which are used in string-service jar)
-5. Java docs folder.
+3. Java docs folder.
 
 ### Runing this project
 1. Download this repo
@@ -25,4 +23,4 @@ Jtable is used then to output a information about each class in a tabular format
 3. Add java source code
 4. Add a jar file that you want to analyse to the project solution
 5. Add external jars to build path if needed
-7. In runner class type in the name of the full file eg. "string-serive.jar" to pass the file to MetricImpl object. 
+7. In runner class type in the name of the full file eg. "java-jar.jar" to pass the file to MetricImpl object. 
